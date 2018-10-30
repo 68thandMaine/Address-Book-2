@@ -1,3 +1,8 @@
 #show-contact {
   display: none;
 }
+
+.address-type, .address-type2 {
+  font-weight: bold;
+  font-size: 20px
+}
